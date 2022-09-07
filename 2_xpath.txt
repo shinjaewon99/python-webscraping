@@ -1,0 +1,8 @@
+
+/html/body/div/div/div[3]/div/div/div/span/a...
+//*[@id="login]
+
+<학교 이름 ="송호 고등학교">
+    <학년 value="1학년>
+        <반 value="1반">
+        
